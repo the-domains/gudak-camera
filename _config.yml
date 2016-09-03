@@ -1,19 +1,4 @@
-name: Gudak Camera
-favicon: null
-layout_spectrum: 0.75991
 typography_spectrum: 0.23873
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -25,4 +10,20 @@ color:
   lightness: 0.9375
   saturation: 0.125
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.75991
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Gudak Camera
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Print Share your dream
 purpose: []
